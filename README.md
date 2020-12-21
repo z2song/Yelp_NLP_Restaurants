@@ -6,6 +6,5 @@ Yelp is a popular app/website that allows users to write reviews and rate busine
 
 Bi-directional LSTM Training/Validation Loss and Accuracy
 ![alt text](https://github.com/kristienguyen100/Yelp_NLP_Restaurants/blob/main/Pics/Bi-directional%20LSTM%20result.png)
-
 Model Comparison
 ![alt text](https://github.com/kristienguyen100/Yelp_NLP_Restaurants/blob/main/Pics/Model%20Comparison.png)
